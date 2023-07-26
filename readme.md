@@ -17,7 +17,7 @@
 
 =======
 
-Homework #4 for the course "Immersion in Python".git
+Homework #4 for the course "Immersion in Python".
 
 1. Solve problems that were not solved at the seminar.
 
