@@ -31,3 +31,5 @@ we do not hash the key, we vicorize its string representation.
 4. Give preference to the ATM from the workshop 2. Break it down
 on the selected operation - functions. Additionally save
 all operations of receipt and withdrawal of funds to the list.
+
+version control in-depth commit 1
