@@ -33,3 +33,5 @@ on the selected operation - functions. Additionally save
 all operations of receipt and withdrawal of funds to the list.
 
 version control in-depth commit 1
+
+version control in-depth commit 2
